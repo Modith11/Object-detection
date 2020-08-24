@@ -1,0 +1,53 @@
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+ 
+ }
+ 
+ span
+ {
+     color: red;
+     font-size: 16px;
+ }	
+ li img
+ {
+     width: 200px;
+     border-radius: 20px;
+ }
+ .bob
+ {
+     background: bisque;
+     padding: 30px;
+     border-radius: 20px;
+     width: 50%;
+     display: inline-block;
+     box-shadow: 5px 5px 18px grey;
+ }
+ b
+ {
+     color: rgb(246, 11, 207);
+ }
+ 
+ .bob3
+ {
+     text-align: center;
+     background: gainsboro;
+     border-radius: 20px;
+     padding: 10px;
+ }
+
+ .hi
+ {
+     box-shadow: 5px 5px 18px grey;
+     letter-spacing: 2px;
+     background: lightpink;
+     border-radius: 20px;
+     padding: 20px;
+     border:2px solid grey
+ }
